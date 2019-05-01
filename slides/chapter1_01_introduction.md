@@ -21,8 +21,12 @@ Hello world
 ```
 
 - Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements.
-- This is another bullet point.
+  elements. 
+- This is another bullet point. $\delta$
+
+$$
+\delta
+$$
 
 <img src="profile.jpg" alt="This image is in /static" width="25%">
 
