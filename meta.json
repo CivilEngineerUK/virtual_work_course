@@ -18,8 +18,8 @@
     "showProfileImage": true,
     "footerLinks": [
         { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-r" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
+        { "text": "Source", "url": "https://github.com/CivilEngineerUK/strutctural_eng_course" },
+        { "text": "Built with ♥", "url": "https://github.com/CivilEngineerUK/strutctural_eng_course" }
     ],
     "theme": "#de7878"
 }
