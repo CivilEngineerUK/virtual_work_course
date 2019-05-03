@@ -1,8 +1,8 @@
 ---
 title: 'Chapter 1: Principle of Virtual Work'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'This chapter will teach you about Virtual Work and guide you through
+     the course format.'
 prev: null
 next: /chapter2
 type: chapter
@@ -45,7 +45,7 @@ This is not correct either.
 <exercise id="3" title="First steps">
 
 This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
+you can have **bold text**, `code` or [links](https://github.com/CivilEngineerUK/strutctural_eng_course) or lists, like
 the one for the instructions below.
 
 - These are instructions and they can have bullet points.
