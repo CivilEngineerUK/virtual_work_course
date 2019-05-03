@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 2: More stuff'
+title: 'Chapter 2: Worked Examples of Virtual Work'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+  'This chapter will teach you how to apply the Virtual Work method.'
 prev: /chapter1
 next: null
 type: chapter
