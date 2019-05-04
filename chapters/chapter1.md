@@ -16,24 +16,24 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Strain Energy">
 
-Let's ask some questions about the slides. Whats the correct answer?
+What is strain energy?
 
 <choice>
-<opt text="Answer one">
+<opt text="The stress in a beam due to external pressure">
 
 This is not the correct answer.
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="The energy stored in a structure that is deformed under a load" correct="true">
 
 Good job!
 
 </opt>
 
-<opt text="Answer three">
+<opt text="The length of elongation of a rod under a dynamic load">
 
 This is not correct either.
 
@@ -42,15 +42,13 @@ This is not correct either.
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="3" title="Code Exercise">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://github.com/CivilEngineerUK/strutctural_eng_course) or lists, like
-the one for the instructions below.
+This is a code exercise. 
 
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
+<img src="truss.PNG" alt="This image is in /static" width="25%">
+
+Print the force in member AB:
 
 <codeblock id="01_03">
 
