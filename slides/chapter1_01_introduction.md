@@ -22,9 +22,8 @@ print("Virtual Work is cool", quote = FALSE)
 Virtual Work is cool
 ```
 
-- Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements. 
-- This is another bullet point. 
+- It's based on strain energy.
+- It can be used to find the displacement anywhere in the structure. 
 
 <img src="logo.svg" alt="This image is in /static" width="25%">
 
