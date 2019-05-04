@@ -44,7 +44,7 @@ This is not correct either.
 
 <exercise id="3" title="Member Force">
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Truss_Structure_Analysis%2C_Full_Figure2.jpg/638px-Truss_Structure_Analysis%2C_Full_Figure2.jpg)(https://en.wikipedia.org/wiki/Structural_analysis)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Truss_Structure_Analysis%2C_Full_Figure2.jpg/638px-Truss_Structure_Analysis%2C_Full_Figure2.jpg)()
 
 What is the vertical reaction at B?
 
