@@ -16,33 +16,7 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Strain Energy">
-
-What is strain energy?
-
-<choice>
-<opt text="The stress in a beam due to external pressure">
-
-This is not the correct answer.
-
-</opt>
-
-<opt text="The energy stored in a structure that is deformed under a load" correct="true">
-
-Good job!
-
-</opt>
-
-<opt text="The length of elongation of a rod under a dynamic load">
-
-This is not correct either.
-
-</opt>
-</choice>
-
-</exercise>
-
-<exercise id="3" title="Member Force">
+<exercise id="2" title="Member Force">
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Truss_Structure_Analysis%2C_Full_Figure2.jpg/638px-Truss_Structure_Analysis%2C_Full_Figure2.jpg)()
 
@@ -71,7 +45,7 @@ Are you sure the reaction is downward?
 </exercise>
 
 
-<exercise id="4" title="Code Exercise">
+<exercise id="3" title="Code Exercise">
 
 This is a code exercise. 
 
