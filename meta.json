@@ -1,7 +1,7 @@
 {
     "courseId": "virtual-work",
     "title": "Principle of Virtual Work",
-    "slogan": "An interactive website for learning strutural analysis",
+    "slogan": "An interactive website for learning the virtual work method of strutural analysis using the R programming language",
     "description": "An interactive website for learning strutural analysis.",
     "bio": "I'm a chartered civil engineer, educator and data scientist using AI to solve civil entgineering problems.",
     "siteUrl": "https://github.com/CivilEngineerUK/virtual_work_course",
