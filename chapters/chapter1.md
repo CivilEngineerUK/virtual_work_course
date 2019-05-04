@@ -42,13 +42,40 @@ This is not correct either.
 
 </exercise>
 
-<exercise id="3" title="Code Exercise">
+<exercise id="3" title="Member Force">
 
-This is a code exercise. 
 
 <img src="truss.PNG" alt="This image is in /static" width="25%">
 
-Print the force in member AB:
+What is the force in member AB:
+
+<choice>
+<opt text="+125kN (compression)" correct="true">
+
+Nice work.
+
+</opt>
+
+<opt text="-100kN (compression)">
+
+Are you sure the member is in tension?
+
+</opt>
+
+<opt text="+125kN (tension)">
+
+Are you sure the member is in tension?
+
+</opt>
+</choice>
+
+</exercise>
+
+
+<exercise id="4" title="Code Exercise">
+
+This is a code exercise. 
+
 
 <codeblock id="01_03">
 
