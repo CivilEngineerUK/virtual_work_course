@@ -44,27 +44,26 @@ This is not correct either.
 
 <exercise id="3" title="Member Force">
 
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Truss_Structure_Analysis%2C_Full_Figure2.jpg/638px-Truss_Structure_Analysis%2C_Full_Figure2.jpg)(https://en.wikipedia.org/wiki/Structural_analysis)
 
-<img src="truss.PNG" alt="This image is in /static" width="25%">
-
-What is the force in member AB:
+What is the vertical reaction at B?
 
 <choice>
-<opt text="+125kN (compression)" correct="true">
+<opt text="+5kN" correct="true">
 
 Nice work.
 
 </opt>
 
-<opt text="-100kN (compression)">
+<opt text="+10kN">
 
-Are you sure the member is in tension?
+Are you sure this is correct?
 
 </opt>
 
-<opt text="+125kN (tension)">
+<opt text="-5kN (tension)">
 
-Are you sure the member is in tension?
+Are you sure the reaction is downward?
 
 </opt>
 </choice>
