@@ -57,3 +57,17 @@ This is a hint.
 </codeblock>
 
 </exercise>
+
+
+<exercise id="4" title="Calculating Bending Moments">
+
+Calculate the bending moment in a 5m cantilever with a 10kN point load at the tip.
+
+
+<codeblock id="01_04">
+
+What is the equation for the bending moment in a cantilever?
+
+</codeblock>
+
+</exercise>
