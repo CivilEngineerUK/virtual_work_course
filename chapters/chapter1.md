@@ -45,20 +45,6 @@ Are you sure the reaction is downward?
 </exercise>
 
 
-<exercise id="3" title="Code Exercise">
-
-This is a code exercise. 
-
-
-<codeblock id="01_03">
-
-This is a hint.
-
-</codeblock>
-
-</exercise>
-
-
 <exercise id="4" title="Calculating Bending Moments">
 
 Calculate the bending moment in a 5m cantilever with a 10kN point load at the tip.
