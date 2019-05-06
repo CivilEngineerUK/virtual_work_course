@@ -37,7 +37,7 @@ Are you sure this is correct?
 
 <opt text="-5kN (tension)">
 
-Are you sure the reaction is downward?
+Are you sure the reaction is downward? 
 
 </opt>
 </choice>
