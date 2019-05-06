@@ -45,7 +45,7 @@ Are you sure the reaction is downward?
 </exercise>
 
 
-<exercise id="4" title="Calculating Bending Moments">
+<exercise id="3" title="Calculating Bending Moments">
 
 Calculate the bending moment in a 5m cantilever with a 10kN point load at the tip.
 
